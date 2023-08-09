@@ -1,0 +1,22 @@
+{
+  "name": "codes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "asap": "^2.0.6",
+    "dezalgo": "^1.0.4",
+    "express": "^4.18.2",
+    "formidable": "^3.5.0",
+    "hexoid": "^1.0.0",
+    "once": "^1.4.0",
+    "wrappy": "^1.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

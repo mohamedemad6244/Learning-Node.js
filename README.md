@@ -30,7 +30,7 @@ To download this repository, follow these steps:
    ```
 3. Clone the repository using the `git clone` command. Replace `USERNAME` and `REPOSITORY` with the appropriate values:
    ```
-   $ git clone https://github.com/USERNAME/REPOSITORY
+   $ git clone https://github.com/mohamedemad6244/Learning-Node.js.git
    ```
 
 ## Creating a Server
